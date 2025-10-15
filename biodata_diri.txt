@@ -1,3 +1,6 @@
 Name : Rafiyandi
 Address : Jakarta
 Age : 24
+
+
+Makanan Favorite :  Ramen
